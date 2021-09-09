@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: print-colorized
+Version: 0.0.1
+Summary: A package to print colorized
+Home-page: https://github.com/Heydarchi/printcolorized
+Author: Mohammad Hossein Heydarchi
+Author-email: Heydarchi@yahoo.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/Heydarchi/printcolorized/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 2
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=2.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# PrintColorized
+A python package to print colorized
+
+

@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/print_colorized/PrintColorized.py
+src/print_colorized/__init__.py
+src/print_colorized/example.py
+src/print_colorized.egg-info/PKG-INFO
+src/print_colorized.egg-info/SOURCES.txt
+src/print_colorized.egg-info/dependency_links.txt
+src/print_colorized.egg-info/top_level.txt
