@@ -12,4 +12,4 @@ Just import the package and use it easily. :)
 >printNormal("Normal Bold Italic", italic=True, bold=True)
 >printWarning("Warning Bold underline", italic=True, underline=True)
 
-![alt text](https://github.com/Heydarchi/PrintColorized/screenshot_1.jpg?raw=true)
+![alt text](https://github.com/Heydarchi/PrintColorized/blob/main/screenshot_1.jpg?raw=true)
